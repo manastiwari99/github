@@ -1,3 +1,0 @@
-This is my first git project
-
- This is very useful for me.
